@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flower advisor</string>
+    <string name="find_flower">Выбрать Цветы</string>
+    <string name="flower_types">Flower Types</string>
+
+    <string-array name="flowers_types">
+        <item>Роза</item>
+        <item>Орхидея</item>
+        <item>Лилия</item>
+    </string-array>
+
+</resources>
